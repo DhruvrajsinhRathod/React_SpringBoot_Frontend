@@ -1,4 +1,4 @@
-# 🚀 SpringBoot Backend
+# 🚀 SpringBoot FrontEnd
 
 Welcome to the **most unnecessary project** you'll ever love. 😅
 
